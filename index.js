@@ -7,4 +7,6 @@ weatherForm.addEventListener("submit", event =>{
 
 })
 
-async function getWeatherData()
+async function getWeatherData(city){
+    
+}
