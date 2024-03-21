@@ -10,3 +10,7 @@ weatherForm.addEventListener("submit", event =>{
 async function getWeatherData(city){
     
 }
+
+function DisplayWeatherInfo(data){
+    
+}
